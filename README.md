@@ -11,4 +11,5 @@ Analyze sales data to identify trends, top-selling products, and revenue metrics
 - Visualization of Data
 
 ## Final Result
-![Screenshot (66)](https://github.com/user-attachments/assets/cba459d4-58ed-4c54-aab3-e9c48cc1b6ef)
+
+<img width="960" alt="Screenshot (66)" src="https://github.com/user-attachments/assets/6f9cd024-7bd3-4091-bb69-d517f712bae3">
